@@ -3,7 +3,7 @@
 .navbar-nav>li>a,
 .navbar-brand,
 .navbar-text {
-  color: #cccccc;
+  color: #cccccc; 
 }
 
 .navbar-nav>li>a.active {
@@ -12,4 +12,8 @@
 
 .navbar {
   border-radius: 0px;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.473);
 }
